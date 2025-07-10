@@ -62,34 +62,48 @@ The dataset includes:
 - Segment-wise customer counts and trends  
 - High-value customer identification  
 - Area and pincode-level segmentation
-Preview:
+### Preview:
 <img width="1583" height="1036" alt="image" src="https://github.com/user-attachments/assets/a79d0c5d-bdd6-4603-8f09-db88456e5595" />
 
 
 ### Dashboard 2: Order & Delivery Performance
 - Late vs. on-time delivery trends  
 - Delay reasons breakdown  
-- Partner-wise delivery performance  
+- Partner-wise delivery performance
+### Preview:
+<img width="1590" height="1040" alt="image" src="https://github.com/user-attachments/assets/5f14299c-67e8-424c-92ee-99ceb3b18b76" />
+
 
 ### Dashboard 3: Product & Inventory Management
 - Stock and damage trends  
 - Min-stock alert system  
 - Revenue and margin analysis  
+### Preview:
+<img width="2174" height="1054" alt="image" src="https://github.com/user-attachments/assets/120a60e1-baef-4578-bc97-7a36cae5b3bc" />
+
 
 ### Dashboard 4: Marketing Campaign Performance
 - Campaign KPIs: Impressions, clicks, ROAS  
 - Conversion rate and revenue trends  
 - Channel and segment effectiveness  
+### Preview:
+<img width="2201" height="1041" alt="image" src="https://github.com/user-attachments/assets/f7ad6933-c505-4853-a9b7-4e153739d067" />
+
 
 ### Dashboard 5: Customer Feedback & Sentiment
 - Feedback sentiment tracking  
 - Sentiment correlation with value & delivery  
 - Word cloud (optional)  
+### Preview:
+<img width="1589" height="1043" alt="image" src="https://github.com/user-attachments/assets/e0aa882a-115d-407c-831a-323638ef2711" />
+
 
 ### Dashboard 6: Financial & Operational KPIs
 - Revenue and AOV trends  
 - Payment method usage  
 - Margin vs. damaged stock cost  
+### Preview:
+<img width="2176" height="1038" alt="image" src="https://github.com/user-attachments/assets/52850dc3-37ee-4129-854f-c8e4f9b1886c" />
 
 ---
 
@@ -137,5 +151,4 @@ The project provided actionable insights across customer behavior, delivery logi
 
 **Gayathri P**  
 Data Analyst | Python | SQL | Power BI | Tableau | ML  
-[GitHub Profile](https://github.com/Gayathri257)
 
